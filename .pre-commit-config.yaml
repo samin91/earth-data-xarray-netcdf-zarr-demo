@@ -16,3 +16,4 @@ repos:
     rev: 6.1.0
     hooks:
       - id: flake8
+        args: ["--ignore=E203,E501,P103"]
