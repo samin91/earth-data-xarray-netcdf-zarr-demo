@@ -9,7 +9,7 @@ This repository includes the following:
 - Inspect computation graphs to understand Dask task planning
 
 ## Repository Structure
-
+```
 earth-data-xarray-netcdf-zarr-demo/
 ├── data/ # Example NetCDF (not included)
 ├── notebooks/ # Jupyter notebooks with demos
@@ -19,7 +19,7 @@ earth-data-xarray-netcdf-zarr-demo/
 ├── pyproject.toml # Build & lint config
 ├── README.md # This document
 └── requirements.txt # Python dependencies
-
+```
 
 # Installation
 
@@ -28,3 +28,4 @@ earth-data-xarray-netcdf-zarr-demo/
 ```bash
 git clone https://github.com/samin91/earth-data-xarray-netcdf-zarr-demo.git
 cd earth-data-xarray-netcdf-zarr-demo
+```
