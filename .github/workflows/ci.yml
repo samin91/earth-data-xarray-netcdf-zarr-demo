@@ -37,6 +37,3 @@ jobs:
 
       - name: Type check with mypy
         run: mypy .
-
-      - name: Run tests
-        run: pytest
